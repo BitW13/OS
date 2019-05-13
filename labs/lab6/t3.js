@@ -1,5 +1,4 @@
 var WshShell, MyShortcut, PathTarg, PathIcon, Res, PathShortcut;
-var vbYesNo = 4, vbQuestion = 32, vbYes = 6;
 
 WshShell = WScript.CreateObject("WScript.Shell");
 PathShortcut = WshShell.SpecialFolders("Desktop");

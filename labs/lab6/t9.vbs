@@ -1,0 +1,1 @@
+REG export HKLM\HARDWARE\ backup.hiv 'Сохранение реестра   
